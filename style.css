@@ -46,9 +46,19 @@ body {
     padding: 24px;
     background-color: #F0E8C2;
     border-radius: 34px;
-    margin:  48px auto;
+    margin:  28px auto;
 }
 
 img {
     border-radius: 16px;
+}
+
+footer {
+    color: #573A37;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
 }
